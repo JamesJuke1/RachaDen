@@ -24,9 +24,11 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    e "Welcome to RachaBard Trials."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    e "Here we are trying and experimenting with getting Ren'Py to make a working kinetic book."
+
+    e "Here goes nothing."
 
     # This ends the game.
 
